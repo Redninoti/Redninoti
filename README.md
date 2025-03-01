@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My Name is T. W. Bendermacher and I am currently working on an single player Horro Game
+
+to be continued ...
+
 <!--
 **Redninoti/Redninoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
